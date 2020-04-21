@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\bin\Debug\netcoreapp3.1\CommaChecker.exe
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\bin\Debug\netcoreapp3.1\CommaChecker.deps.json
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\bin\Debug\netcoreapp3.1\CommaChecker.runtimeconfig.json
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\bin\Debug\netcoreapp3.1\CommaChecker.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\bin\Debug\netcoreapp3.1\CommaChecker.dll
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\bin\Debug\netcoreapp3.1\CommaChecker.pdb
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\obj\Debug\netcoreapp3.1\CommaChecker.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\obj\Debug\netcoreapp3.1\CommaChecker.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\obj\Debug\netcoreapp3.1\CommaChecker.AssemblyInfo.cs
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\obj\Debug\netcoreapp3.1\CommaChecker.dll
+C:\Users\xniko\source\repos\CommaChecker\CommaChecker\obj\Debug\netcoreapp3.1\CommaChecker.pdb
